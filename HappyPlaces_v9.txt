@@ -1,0 +1,5 @@
+In this version we have done the list of steps.
+
+1. We have created a function in database handler class to get the list of items inserted in database.
+2. We have called the function of getting the list of items in the MainActivity.
+3. And we have designed the the activity_main as we have added the textview for showing an hint when there is not item in the database and added a recyclerview.
